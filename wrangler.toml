@@ -1,4 +1,4 @@
-name = "Cawetprawan" # todo
+name = "Terong-dev" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "13d783a4-bd22-49fd-8687-9d1fff7d2552"
+UUID = "43d7fb55-9e8b-429a-ab6a-8d5dca7f9d74"
